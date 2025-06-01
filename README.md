@@ -1,4 +1,4 @@
-# Analyzing F1 Dominant Drivers and teams using Databricks(PySpark)
+# Analyzing F1 Dominant Drivers and teams using Databricks (PySpark and SparkSQL)
 
 What is this pipeline exactly doing?
 
