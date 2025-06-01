@@ -9,7 +9,7 @@ What is this pipeline exactly doing?
 5. Using Metabase as a service through Docker for analytics.
 
 ## Architecture
-![Architecture](assets/F1.jpg)
+![Architecture](assets/F1.JPG)
 1. **Yahoo API**: Source of the stock data.
 2. **Apache Airflow**: Orchestrates the ETL process and manages task distribution. For this Airflow congifurations i am using Astronomer to setup my Airflow.
 3. **Spark**: Transforming all the data fetched from the API.
